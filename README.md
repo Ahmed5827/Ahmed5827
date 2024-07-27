@@ -11,6 +11,7 @@
 - **Node.js**: Exploring server-side JavaScript for scalable network applications.
 - **Cloud Platforms**: Gaining hands-on experience with AWS, Google Cloud, and Azure.
 ## 📫 Let's Connect!
+- **Email**: [achebbi2002@gmail.com](mailto:achebbi2002@gmail.com)
 - **LinkedIn**: [www.linkedin.com/in/ahmed-chebbi-69339319b](#)
 
 #### Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects or discuss new ideas!
