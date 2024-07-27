@@ -1,8 +1,8 @@
 ## Hi there 👋 
 ### I'm Ahmed, a passionate software engineering student pursuing full-stack development with a keen interest in cloud computing. My goal is to build scalable, efficient, and user-friendly applications that leverage the power of modern technologies.
 ## 🔭 Current Focus :
-**Full-Stack Development: Working on projects using React for the frontend and Flask for the backend.
-**Cloud Computing: Exploring cloud services and architecture to enhance my applications' performance and scalability.
+- **Full-Stack Development: Working on projects using React for the frontend and Flask for the backend.
+- **Cloud Computing: Exploring cloud services and architecture to enhance my applications' performance and scalability.
 ## 🌱 Learning & Growth :
 - **React & Redux**: Building dynamic and responsive web applications.
 - **Flask**: Setting up robust backends to support my web applications.
