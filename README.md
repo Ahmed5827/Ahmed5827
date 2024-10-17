@@ -8,6 +8,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed5827&show_icons=true&line_height=27" alt="Guru's github stats"/>
 </a>
 <br/>
+
 ## 🔭 Current Focus :
 - **Full-Stack Development**: Working on projects using React for the frontend and Flask for the backend.
 - **Cloud Computing**: Exploring cloud services and architecture to enhance my applications performance and scalability.
