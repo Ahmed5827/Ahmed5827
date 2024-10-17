@@ -4,10 +4,12 @@
 
 
 <br/>
-<a href="https://github.com/Ahmed5827">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed5827&show_icons=true&line_height=27" alt="Guru's github stats"/>
-</a>
-<br/>
+<div style={display="flex"}><a href="https://github.com/Ahmed5827">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed5827&show_icons=true&line_height=27&theme=radical&count_private=true&include_all_commits=true" alt="Ahmed's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed5827&theme=radical&layout=compact&langs_count=4&hide=html,css&hide_border=true&hide_langs_below=2" />
+</div>
+
+
 
 ## 🔭 Current Focus :
 - **Full-Stack Development**: Working on projects using React for the frontend and Flask for the backend.
