@@ -2,14 +2,12 @@
 ### I'm Ahmed, a passionate software engineering student pursuing full-stack development with a keen interest in cloud computing. 
 ### My goal is to build scalable, efficient, and user-friendly applications that leverage the power of modern technologies.
 
-<a href="https://github.com/Ahmed5827">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed5827&hide_langs_below=1" />
-</a>
-<br/><br/>
+
+<br/>
 <a href="https://github.com/Ahmed5827">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed5827&show_icons=true&line_height=27" alt="Guru's github stats"/>
 </a>
-
+<br/>
 ## 🔭 Current Focus :
 - **Full-Stack Development**: Working on projects using React for the frontend and Flask for the backend.
 - **Cloud Computing**: Exploring cloud services and architecture to enhance my applications performance and scalability.
