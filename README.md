@@ -1,6 +1,15 @@
 ## Hi there 👋 
 ### I'm Ahmed, a passionate software engineering student pursuing full-stack development with a keen interest in cloud computing. 
 ### My goal is to build scalable, efficient, and user-friendly applications that leverage the power of modern technologies.
+
+<a href="https://github.com/Ahmed5827">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed5827&hide_langs_below=1" />
+</a>
+<br/><br/>
+<a href="https://github.com/Ahmed5827">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmed5827&show_icons=true&line_height=27" alt="Guru's github stats"/>
+</a>
+
 ## 🔭 Current Focus :
 - **Full-Stack Development**: Working on projects using React for the frontend and Flask for the backend.
 - **Cloud Computing**: Exploring cloud services and architecture to enhance my applications performance and scalability.
@@ -14,17 +23,7 @@
 - **Email**: [achebbi2002@gmail.com](mailto:achebbi2002@gmail.com)
 - **LinkedIn**: [www.linkedin.com/in/ahmed-chebbi-69339319b](#)
 
+
+
+
 #### Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects or discuss new ideas!
-<!--
-**Ahmed5827/Ahmed5827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
