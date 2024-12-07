@@ -15,7 +15,7 @@
 
 
 ## 🔭 Current Focus :
-- **Full-Stack Development**: Working on projects using React for the frontend and Flask for the backend.
+- **Full-Stack Development**: Working on projects using frontend framework and  backend framework.
 - **Cloud Computing**: Exploring cloud services and architecture to enhance my applications performance and scalability.
 ## 🌱 Learning & Growth :
 - **React & Redux**: Building dynamic and responsive web applications.
