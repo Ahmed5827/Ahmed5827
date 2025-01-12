@@ -31,3 +31,4 @@
 
 
 #### Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects or discuss new ideas!
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmed5827&color=blue)
