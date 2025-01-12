@@ -19,7 +19,6 @@
 - **Cloud Computing**: Exploring cloud services and architecture to enhance my applications performance and scalability.
 ## 🌱 Learning & Growth :
 - **React & Redux**: Building dynamic and responsive web applications.
-- **Flask**: Setting up robust backends to support my web applications.
 - **Django**: Learning to develop high-level Python web frameworks for rapid development.
 - **Node.js**: Exploring server-side JavaScript for scalable network applications.
 - **Cloud Platforms**: Gaining hands-on experience with AWS, Google Cloud, and Azure.
