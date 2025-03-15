@@ -22,9 +22,17 @@
 - **Django**: Learning to develop high-level Python web frameworks for rapid development.
 - **Node.js**: Exploring server-side JavaScript for scalable network applications.
 - **Cloud Platforms**: Gaining hands-on experience with AWS, Google Cloud, and Azure.
+
+<hr/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed5827" alt="ahmed5827" /></a> </p>
+
+
 ## 📫 Let's Connect!
 - **Email**: [achebbi2002@gmail.com](mailto:achebbi2002@gmail.com)
 - **LinkedIn**: [www.linkedin.com/in/ahmed-chebbi-69339319b](#)
+
+
+  
 
 
 
