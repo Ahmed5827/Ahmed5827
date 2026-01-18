@@ -24,7 +24,6 @@
 - **Cloud Platforms**: Gaining hands-on experience with AWS, Google Cloud, and Azure.
 
 <hr/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed5827" alt="ahmed5827" /></a> </p>
 
 
 ## 📫 Let's Connect!
